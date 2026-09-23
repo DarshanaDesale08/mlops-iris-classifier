@@ -1,0 +1,14 @@
+Title: Implementation of Feature Store using Feast
+
+Aim: To implement a feature store using Feast and retrieve historical and online features for a machine learning application.
+
+Tools Used:
+
+Python
+Feast
+Pandas
+Parquet
+SQLite
+
+Conclusion:
+Feast was used to define and manage machine learning features. The practical demonstrates how feature data can be stored and retrieved from offline and online stores for machine learning applications.
